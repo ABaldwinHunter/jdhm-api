@@ -1,0 +1,14 @@
+---
+engines:
+  fixme:
+    enabled: true
+  phpmd:
+    enabled: true
+  phpcodesniffer:
+    enabled: true
+  rubocop:
+    enabled: false
+ratings:
+  paths:
+  - "**.php"
+exclude_paths: []
